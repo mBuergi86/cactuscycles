@@ -1,0 +1,91 @@
+{
+  "vertrieb": {
+    "paullange": {
+      "name": "Paul Lange & CO. OHG",
+      "adress": "Hofener Straße 114",
+      "ort": "Stuttgart",
+      "plz": "70372",
+      "email": "info@paul-lange.de",
+      "site": "www.paul-lange.de",
+      "marke": {
+        "Shimano": {
+          "image": "shimano.png",
+          "url": "www.shimano.com",
+          "produkte": {
+            "Fahrradteile": {
+              "item": [
+                "Antrieb",
+                "Bremsen",
+                "Laufräder",
+                "Pedale",
+                "Sattelstützen",
+                "Schaltung",
+                "Vorbauten",
+                "Steuersätze"
+              ]
+            },
+            "Bekleidung": {
+              "item": [
+                "Arm-, Bein-, Knielinge",
+                "Brillen",
+                "Funktionsunterwäsche"
+              ]
+            },
+            "Elektronik": {
+              "item": ""
+            },
+            "Werkstatt": {
+              "item": ""
+            },
+            "Zubehör": {
+              "item": ""
+            }
+          }
+        },
+        "Michelin": {
+          "image": "michelin.png",
+          "url": "www.michelin.com",
+          "produkte": {
+            "Fahrradteile": {
+              "item": "Laufräder"
+            }
+          }
+        },
+        "Lazer": {
+          "image": "lazer.png",
+          "url": "www.lazer.com",
+          "produkte": {
+            "Zubehör": {
+              "item": ""
+            }
+          }
+        },
+        "Motorex": {
+          "image": "motorex.png",
+          "url": "www.motorex.com",
+          "produkte": {
+            "Zubehör": {
+              "item": ""
+            }
+          }
+        },
+        "Schwalbe": {
+          "image": "schwalbe.png",
+          "url": "www.schwalbe.com",
+          "produkte": {
+            "Fahrradteile": {
+              "item": "Laufräder"
+            },
+            "Werkstatt": {
+              "item": ""
+            },
+            "Zubehör": {
+              "item": ""
+            }
+          }
+        }
+      }
+    },
+    "reverse": ""
+  }
+}
